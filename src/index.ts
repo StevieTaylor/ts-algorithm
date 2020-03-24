@@ -1,1 +1,1 @@
-import './chapters/array';
+import './data-structure/array/array';
